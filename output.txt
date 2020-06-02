@@ -1,0 +1,45 @@
+{
+    "invoice": {
+        "invoiceNumber": "INV-3337",
+        "orderNumber": "12345",
+        "invoiceDate": "January 25, 2016",
+        "dueDate": "January 31, 2016",
+        "totalDue": "S23.20"
+    },
+    "page": {
+        "current": "1",
+        "total": "1"
+    },
+    "bank": {
+        "acc": "# 1234 1234",
+        "name": "ANZ",
+        "bsb": "# 4321 432"
+    },
+    "details": {
+        "hrsPerQty": "1.00",
+        "service": "Web Design This is a sample description...",
+        "ratePerPrice": "$85.00",
+        "adjust": "0:00%",
+        "subtotal": "$85.00"
+    },
+    "from": {
+        "suite": "Suite 5A-1204",
+        "name": "DEMO - Sliced Invoices",
+        "address1": "123 Somewhere Street",
+        "address2": "Your City AZ 12345",
+        "email": "admin @slicedinvoices.com"
+    },
+    "to": {
+        "name": "Test Business",
+        "address1": "123 Somewhere St",
+        "address2": "Melbourne, VIC 3000",
+        "email": "test@test.com"
+    },
+    "total": {
+        "subtotal": "$85.00",
+        "tax": "$8.50",
+        "total": "93.50"
+    },
+    "remark": "Payment is due within 30 days from date of invoice. Late payment is subject to fees of 5% per month.",
+    "note": "Thanks for choosing DEMO - Sliced Invoices | admin@slicedinvoices.com"
+}
